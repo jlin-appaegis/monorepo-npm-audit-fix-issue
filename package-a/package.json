@@ -1,14 +1,11 @@
 {
-  "name": "monorepo",
+  "name": "@mammothcyber/package-a",
   "version": "1.0.0",
   "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "workspaces": [
-    "package-a",
-    "package-b"
-  ]
+  "license": "ISC"
 }
